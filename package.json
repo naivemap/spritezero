@@ -5,8 +5,8 @@
   "description": "small opinionated sprites",
   "author": "Tom MacWright",
   "license": "ISC",
-  "repository": "mapbox/spritezero",
-  "bugs": "https://github.com/mapbox/spritezero/issues",
+  "repository": "naivemap/spritezero",
+  "bugs": "https://github.com/naivemap/spritezero/issues",
   "keywords": [
     "sprite",
     "images",
