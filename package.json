@@ -1,6 +1,6 @@
 {
-  "name": "@mapbox/spritezero",
-  "version": "8.0.0",
+  "name": "@naivemap/spritezero",
+  "version": "8.1.0",
   "main": "./index.js",
   "description": "small opinionated sprites",
   "author": "Tom MacWright",
@@ -34,6 +34,6 @@
     "docs": "documentation build lib --lint --github --format html --output docs/",
     "lint": "eslint lib/ test/",
     "regenerate-fixtures": "node test/regenerate.js",
-    "test": "npm run lint && tap --cov test/*.test.js"
+    "test": "tap --cov test/*.test.js"
   }
 }
