@@ -2,6 +2,7 @@
   "name": "@naivemap/spritezero",
   "version": "8.1.1",
   "main": "./index.js",
+  "files": ["index.js", "lib"],
   "description": "small opinionated sprites",
   "author": "Tom MacWright",
   "license": "ISC",
