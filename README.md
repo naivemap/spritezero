@@ -1,5 +1,5 @@
-[![npm version](https://badge.fury.io/js/%40mapbox%2Fspritezero.svg)](https://badge.fury.io/js/%40mapbox%2Fspritezero)
-[![Build Status](https://travis-ci.com/mapbox/spritezero.svg?branch=main)](https://travis-ci.com/mapbox/spritezero)
+[![npm version](https://badge.fury.io/js/%naivemap%2Fspritezero.svg)](https://badge.fury.io/js/%naivemap%2Fspritezero)
+[![Build Status](https://travis-ci.com/naivemap/spritezero.svg?branch=main)](https://travis-ci.com/naivemap/spritezero)
 
 ## spritezero
 
@@ -15,7 +15,7 @@ and higher-dpi sprites from the same source.
 
 ### Usage
 ```js
-var spritezero = require('@mapbox/spritezero');
+var spritezero = require('@naivemap/spritezero');
 var fs = require('fs');
 var glob = require('glob');
 var path = require('path');
@@ -64,7 +64,7 @@ Complete API documentation is here:  http://mapbox.github.io/spritezero/
 Requires [nodejs](http://nodejs.org/) v10.0.0 or greater.
 
 ```bash
-$ npm install @mapbox/spritezero
+$ npm install @naivemap/spritezero
 ```
 
 
