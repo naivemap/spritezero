@@ -1,6 +1,6 @@
 {
   "name": "@naivemap/spritezero",
-  "version": "8.1.0",
+  "version": "8.1.1",
   "main": "./index.js",
   "description": "small opinionated sprites",
   "author": "Tom MacWright",

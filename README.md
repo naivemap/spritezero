@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/%naivemap%2Fspritezero.svg)](https://badge.fury.io/js/%naivemap%2Fspritezero)
+[![npm version](https://badge.fury.io/js/%40naivemap%2Fspritezero.svg)](https://badge.fury.io/js/%40naivemap%2Fspritezero)
 [![Build Status](https://travis-ci.com/naivemap/spritezero.svg?branch=main)](https://travis-ci.com/naivemap/spritezero)
 
 ## spritezero
